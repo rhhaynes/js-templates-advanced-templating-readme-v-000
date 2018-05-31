@@ -1,4 +1,4 @@
-function loadIssue() {
+function loadIssue(){
   const issue = {
     state: "closed",
     number: 5,
